@@ -6,7 +6,11 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 ### Reminders
 
+1.
 
+2.
+
+3.
 
 ### Background Information
 
