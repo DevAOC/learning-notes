@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# 💪 Growth Mindset 💪
 
-You can use the [editor on GitHub](https://github.com/DevAOC/learning-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Personal Defintion
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevAOC/learning-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  The growth mindset, as defined by me, is the ability to perservere in the face of adversity. From taking advantage of all the resources at your disposal to working through a difficult problem by sheer force of will. It is important to think of any failure as a learning experience and to become stronger from that failure.
+  
+  Personally, I have had to overcome the struggles of the coronavirus when I lost my job in my regions last lock-down. I was a Cordon Bleu graduate and had been working at Les Fougeres in Chelsea, Québec for 2 years. I was fortunate to work with one of the best chefs in Canada and to be awarded 61st in **Canada's 100 Best Restaurants 2020**!
+  
+  ![Cordon-Bleu-Grad](/antoinecharette/pictures/Cordon-Bleu-Grad.jpeg)
+  Format: ![Alt Text](url)
