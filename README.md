@@ -16,7 +16,7 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 ##### Class 01
 
-- [Read: 01 - Learning Markdown]()
+- [Read: 01 - Learning Markdown](reading-01.md)
 
 ### Biography
 
