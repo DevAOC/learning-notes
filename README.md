@@ -1,6 +1,6 @@
 # Growth Mindset 📈
 
-### Personal Defintion
+### Personal Definition
 
 The growth mindset, as defined by me, is the ability to perservere in the face of adversity. From taking advantage of all the resources at your disposal to working through a difficult problem by sheer force of will. It is important to think of any failure as a learning experience and to become stronger from that failure.
 
