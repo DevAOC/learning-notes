@@ -6,16 +6,21 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 ### Reminders
 
-1.
+1. Never give up when faced with a difficult task
 
-2.
+2. Consult peers and superiors when trying to get another view of on a problem
 
-3.
+3. Be positive in all aspects of learning and life
 
-### Background Information
+### Biography
 
 Personally, I have had to overcome the struggles of the coronavirus when I lost my job in my regions last lock-down. I was a Cordon Bleu graduate and had been working at [Les Fougeres](https://www.fougeres.com/) in Chelsea, Québec for 2 years. I was fortunate to work with one of the best chefs in Canada and to be awarded 61st in **Canada's 100 Best Restaurants 2020**! 
   
   <img src="Cordon-Bleu-Grad.jpeg" alt="drawing" width="300"/> <img src="CB100_logo-retina.jpeg" alt="drawing" align="top" width="500"/>
 
-I am lucky to be now attending Code Fellows
+I am lucky to be now attending Code Fellows and working towards a career as a Front End Developer!
+
+### Contact Information
+
+- Phone: +1(425)208-9863
+- Email: antoineocharette@gmail.com
