@@ -12,6 +12,12 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 3. Be positive in all aspects of learning and life
 
+### Readings & Lab Assignments
+
+##### Class 01
+
+- [Read: 01 - Learning Markdown]()
+
 ### Biography
 
 Personally, I have had to overcome the struggles of the coronavirus when I lost my job in my regions last lock-down. I was a Cordon Bleu graduate and had been working at [Les Fougeres](https://www.fougeres.com/) in Chelsea, Québec for 2 years. I was fortunate to work with one of the best chefs in Canada and to be awarded 61st in **Canada's 100 Best Restaurants 2020**! 
