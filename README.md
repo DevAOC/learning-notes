@@ -14,10 +14,10 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 ### Table of Contents
 
-- [Readings & Assignments](Readings & Assignments)
-- [Biography](Biography)
-- [Contact Information](Contact Information)
-- [GitHub Portfolio Page](GitHub Portfolio Page)
+- [Here](Readings & Assignments)
+- [Here](Biography)
+- [Here](Contact Information)
+- [Here](GitHub Portfolio Page)
 
 ### Readings & Lab Assignments
 
