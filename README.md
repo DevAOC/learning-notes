@@ -27,4 +27,4 @@ I am lucky to be now attending Code Fellows and working towards a career as a Fr
 
 #### GitHub Portfolio Page
 
-https://github.com/DevAOC
+[https://github.com/DevAOC](https://github.com/DevAOC)
