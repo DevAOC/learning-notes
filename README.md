@@ -12,6 +12,13 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 3. Be positive in all aspects of learning and life
 
+### Table of Contents
+
+- [Readings & Assignments](Readings & Assignments)
+- [Biography](Biography)
+- [Contact Information](Contact Information)
+- [GitHub Portfolio Page](GitHub Portfolio Page)
+
 ### Readings & Lab Assignments
 
 ##### Class 01
