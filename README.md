@@ -8,7 +8,7 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 1. Never give up when faced with a difficult task
 
-2. Consult peers and superiors when trying to get another view of on a problem
+2. Consult peers and superiors when trying to get another view on a problem
 
 3. Be positive in all aspects of learning and life
 
