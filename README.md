@@ -21,9 +21,7 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Readings-&-Assignments">Readings & Assignments</a>
 
-##### Class 01
-
-- [Read: 01 - Learning Markdown](reading-01.md)
+- [Reading: 01 - Learning Markdown](reading-01.md)
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
