@@ -28,7 +28,7 @@ There is also a seperate section involved with more advanced/special Markdown re
 
 All these tools and syntax have been used on my main page "Growth Mindset 📈" and on this page as well!
 
-`Markdown
+```Markdown
 
 Simple Markdown Examples:
 
@@ -43,7 +43,7 @@ Making headers:
 Bolding text with double asteriks:
 
 **Canada's 100 Best Restaurants 2020**
-`
+```
 
 ## Watch: GitHub Pages
 
