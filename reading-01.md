@@ -60,5 +60,3 @@ For example:
 ```
 
 This snippet of HTML inline code, would provide a green link to my my main repository page with the text "Main Page". There are many more tips and tricks to discover using the link [https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-[Main Page](https://devaoc.github.io/reading-notes/)
