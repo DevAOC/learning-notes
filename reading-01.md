@@ -28,6 +28,22 @@ There is also a seperate section involved with more advanced/special Markdown re
 
 All these tools and syntax have been used on my main page "Growth Mindset 📈" and on this page as well!
 
+`
+Simple Markdown Examples:
+
+Making headers:
+
+# Growth Mindset 📈
+
+### Reminders
+
+##### Class 01
+
+Bolding text with double asteriks:
+
+**Canada's 100 Best Restaurants 2020**
+`
+
 ## Watch: GitHub Pages
 
 In this video and on this page, we learned about the benefits of using GitHub to share code and projects easily. GitHub allows us to present code in a neat fashion and link all of our projects and information on one webpage, made by the developers themselves. It is easily accessible and just as easy to learn!
