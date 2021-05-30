@@ -1,6 +1,6 @@
-b {
-  color: #159957;
-}
+  b {
+    color: #159957;
+  }
 # Growth Mindset 📈
 
 ### Personal Definition
