@@ -28,7 +28,8 @@ There is also a seperate section involved with more advanced/special Markdown re
 
 All these tools and syntax have been used on my main page "Growth Mindset 📈" and on this page as well!
 
-`
+`Markdown
+
 Simple Markdown Examples:
 
 Making headers:
