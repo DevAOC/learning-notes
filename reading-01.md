@@ -40,7 +40,7 @@ Making headers:
 
 ##### Class 01
 
-Bolding text with double asteriks:
+Bolding text with double asterisk:
 
 **Canada's 100 Best Restaurants 2020**
 ```
