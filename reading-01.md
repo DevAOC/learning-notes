@@ -1,4 +1,4 @@
-#### <a style="align: right;" href="https://devaoc.github.io/reading-notes/">Main Page</a>
+#### [Main Page](https://devaoc.github.io/reading-notes/)
 
 # Reading Notes 01
 
@@ -31,3 +31,5 @@ All these tools and syntax have been used on my main page "Growth Mindset 📈" 
 ## Watch: GitHub Pages
 
 In this video and on this page, we learned about the benefits of using GitHub to share code and projects easily. GitHub allows us to present code in a neat fashion and link all of our projects and information on one webpage, made by the developers themselves. It is easily accessible and just as easy to learn!
+
+[Main Page](https://devaoc.github.io/reading-notes/)
