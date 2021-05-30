@@ -1,4 +1,4 @@
-#### <a href="https://devaoc.github.io/reading-notes/">Main Page</a>
+#### <a style="align: right;" href="https://devaoc.github.io/reading-notes/">Main Page</a>
 
 # Reading Notes 01
 
