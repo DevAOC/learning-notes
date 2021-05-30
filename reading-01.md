@@ -26,7 +26,7 @@ There is also a seperate section involved with more advanced/special Markdown re
 - Strikethrough
 - Emojis
 
-All these tools and syntax have been used on my main page "reading-notes" and on this page as well!
+All these tools and syntax have been used on my main page "Growth Mindset 📈" and on this page as well!
 
 ## Watch: GitHub Pages
 
