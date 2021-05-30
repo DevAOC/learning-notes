@@ -1,4 +1,4 @@
-#### [Main Page](https://devaoc.github.io/reading-notes/)
+[Main Page](https://devaoc.github.io/reading-notes/)
 
 # Reading Notes 01
 
@@ -31,5 +31,16 @@ All these tools and syntax have been used on my main page "Growth Mindset 📈" 
 ## Watch: GitHub Pages
 
 In this video and on this page, we learned about the benefits of using GitHub to share code and projects easily. GitHub allows us to present code in a neat fashion and link all of our projects and information on one webpage, made by the developers themselves. It is easily accessible and just as easy to learn!
+
+## Bookmark: GitHub Markdown Syntax
+
+This is a link to all the exciting syntax and inline code you can include on any of the GitHub pages you create! It is possible to use inline HTML instead of Markdown to achieve the same or even more ambitious goals on any site you create.
+
+For example:
+
+`
+  <a style="color: green; text-decoration: none;" href="https://devaoc.github.io/reading-notes/">Main Page</a>
+`
+Would provide a not underline green link to my my main repository page.
 
 [Main Page](https://devaoc.github.io/reading-notes/)
