@@ -56,9 +56,9 @@ This is a link to all the exciting syntax and inline code you can include on any
 For example:
 
 ```HTML
-  <a style="color: green; text-decoration: none;" href="https://devaoc.github.io/reading-notes/">Main Page</a>
+  <a style="color: green;" href="https://devaoc.github.io/reading-notes/">Main Page</a>
 ```
 
-This snippet of HTML inline code, would provide a not underlined green link to my my main repository page. There are many more tips and tricks to discover using the link [https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+This snippet of HTML inline code, would provide a green link to my my main repository page with the text "Main Page". There are many more tips and tricks to discover using the link [https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [Main Page](https://devaoc.github.io/reading-notes/)
