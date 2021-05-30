@@ -1,8 +1,8 @@
-'''css
+<style>
   b {
     color: #159957;
   }
-'''
+</style>
 # Growth Mindset 📈
 
 ### Personal Definition
