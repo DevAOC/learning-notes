@@ -14,18 +14,18 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 ### Table of Contents
 
-- [Readings & Assignments](#Readings-&-Assignments)
-- [Biography](#Biography)
-- [Contact Information](#Contact-Information)
-- [GitHub Portfolio Page](#GitHub-Portfolio-Page)
+- <a href ="#Readings-&-Assignments">Readings & Assignments</a>
+- <a href="#Biography">Biography</a>
+- <a href="#Contact-Information">Contact Information</a>
+- <a href="#GitHub-Portfolio-Page">GitHub Portfolio Page</a>
 
-### Readings & Assignments
+### <a id="Readings-&-Assignments">Readings & Assignments</a>
 
 ##### Class 01
 
 - [Read: 01 - Learning Markdown](reading-01.md)
 
-### Biography
+### <a id="Biography">Biography</a>
 
 Personally, I have had to overcome the struggles of the coronavirus when I lost my job in my regions last lock-down. I was a Cordon Bleu graduate and had been working at [Les Fougeres](https://www.fougeres.com/) in Chelsea, Québec for 2 years. I was fortunate to work with one of the best chefs in Canada and to be awarded 61st in **Canada's 100 Best Restaurants 2020**! 
   
@@ -33,11 +33,11 @@ Personally, I have had to overcome the struggles of the coronavirus when I lost 
 
 I am lucky to be now attending Code Fellows and working towards a career as a Front End Developer!
 
-### Contact Information
+### <a id="Contact-Information">Contact Information</a>
 
 - Phone: +1(425)208-9863
 - Email: antoineocharette@gmail.com
 
-#### GitHub Portfolio Page
+#### <a id="GitHub-Portfolio-Page">GitHub Portfolio Page</a>
 
 [https://github.com/DevAOC](https://github.com/DevAOC)
