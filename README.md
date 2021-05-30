@@ -1,8 +1,3 @@
-<style>
-  b {
-    color: #159957;
-  }
-</style>
 # Growth Mindset 📈
 
 ### Personal Definition
@@ -19,10 +14,10 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 ### Table of Contents
 
-- <a href ="#Readings-&-Assignments">Readings & Assignments</a>
-- <a href="#Biography">Biography</a>
-- <a href="#Contact-Information">Contact Information</a>
-- <a href="#GitHub-Portfolio-Page">GitHub Portfolio Page</a>
+- <a style="color: #159957;" href="#Readings-&-Assignments">Readings & Assignments</a>
+- <a style="color: #159957;" href="#Biography">Biography</a>
+- <a style="color: #159957;" href="#Contact-Information">Contact Information</a>
+- <a style="color: #159957;" href="#GitHub-Portfolio-Page">GitHub Portfolio Page</a>
 
 ### <b id="Readings-&-Assignments">Readings & Assignments</b>
 
