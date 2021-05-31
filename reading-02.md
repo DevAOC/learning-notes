@@ -1,4 +1,4 @@
-[Main Page](https://devaoc.github.io/reading-notes/)
+[Home Page](https://devaoc.github.io/reading-notes/)
 
 # Reading Notes 02
 
