@@ -22,6 +22,14 @@ I have personally used Sublime Text in the past and grew fond of it before being
 
 ### [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
+A command prompt or terminal is a window only cosisting of text that allows you to navigate your computer without using a GUI (Graphical User Interface). The basic layout of a terminal starts with a prompt, then command, and finally command line arguments. The terminal will return an output followed by another prompt.
+
+#### The Shell, Bash
+
+There are various shells available and the most common shell is called **Bash** (Bourne again shell). The way to check which shell you are using is to use the command **echo**. This command will output the current shell you are using in the terminal.
+
 ### [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
+
 
 ### [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
