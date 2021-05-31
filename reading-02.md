@@ -30,6 +30,15 @@ There are various shells available and the most common shell is called **Bash** 
 
 ### [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
+This section provides some basic commands for movement around and examination of the terminal. For example:
 
+- ls
+- ls -l
+- pwd
+- cd (.., /, ../)
 
 ### [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+This section denotes important information about linux based systems and their behavior. For example, everything in linux (from your files to montior) is treated as file!
+
+It is important to remember that a space in the terminal is usually denoting the seperation of an item. You can search for a file with a space in the name but it will show up as an error. There are two ways of moving around this fact. These are, surrounding the file name with quotation marks ('') or using an escape character (\).
