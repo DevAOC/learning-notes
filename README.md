@@ -23,7 +23,8 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 - [Reading: 01 - Learning Markdown](reading-01.md)
 - [Reading: 02 - The Coder's Computer](reading-02.md)
-- [Reading: 03 - Git Intro](reading-03.md)
+- [Reading: 03 - Revisions and the CLoud](reading-03.md)
+- [Reading: 04 - Structure Web Pages with HTML](reading-04.md)
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
