@@ -26,10 +26,22 @@ This is a visual representation of an HTML element. [Images below were taken fro
 
 ![alt text](anatomy-of-html-element.png)
 
+This visual representation is of an attribute in the element. This can be in the form of a class or an id.
 
+![alt text](attribute-example.png)
+
+More information on HTML basics can be found here:
+
+[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 ### Semantics
+
+In HTML semantics refers solely to what role an element has and not what it looks like. The style is done in CSS and the animations/behaviors are done in Javascript.
 
 ## Skim
 
 ### Mozilla HTML Docs
+
+This page offers many resources for HTML basics and advanced use. It is a good place to refer back to when trying to resolve an issue with your HTML code.
+
+[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
