@@ -57,6 +57,7 @@ There are only three was to add CSS to your HTML code. These are:
 - Internal CSS (A style section written within your HTML file)
 
 ```HTML
+
 <style>
     body {
         background-color: linen;
@@ -71,17 +72,78 @@ There are only three was to add CSS to your HTML code. These are:
 
 - Inline CSS (CSS that is written in the tag declaration)
 
+```HTML
+
+<p style="color: purple; font-size: 12px; text-align: center;">Fubar: Fucked up beyond all recognition</p>
+
+```
+
 The most optimal way to include CSS on your webpages is to use an external file. Although internal CSS may be the same as your external file, it makes the HTML sloppy or hard to read. It is generally viewed as bad practice. Inline CSS should never be used on a finished product. It is generally used to track or quickly view what a certain line of CSS would do to your page.
+
+CSS will apply styles by priority in a cascading manner. This means that the most priority goes by inline CSS as the most priority, to external and internal stylesheets, and finally the web browser defaults. In other words, what is written last is what will be displayed. 
 
 ### CSS Color
 
+There are many types of color arguments you can use in CSS. For example:
 
+- HEX or hexidecimal values
+
+```CSS
+
+body {
+    color: #92a8d1;
+}
+
+```
+
+- RGB or red, green, blue values
+
+```CSS
+
+body {
+    color: rgb(201, 76, 76);
+}
+
+```
+
+- RGBA or red, green, blue, opacity values
+
+```CSS
+
+body {
+    color: rgba(201, 76, 76, 0.6);
+}
+
+```
+
+- HSL or hue, saturation, lightness values
+
+```CSS
+
+body {
+    color: hsl(89, 43%, 51%);
+}
+
+```
+
+- HSLA or hue, saturation, lightness, opacity values
+
+```CSS
+
+body {
+    color: hsla(89, 43%, 51%, 0.6);
+}
+
+```
+
+All are valid ways of displaying a color in CSS.
 
 ## Skim
 
 ### CSS Reference
 
-
+This is a reference for all the CSS rules and arguments: [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ### Myers Web Reset Stylesheet
 
+This is a basic browser reset available on [https://meyerweb.com/eric/tools/css/reset/](https://meyerweb.com/eric/tools/css/reset/)
