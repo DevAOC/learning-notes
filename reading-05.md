@@ -42,9 +42,15 @@ There are only three was to add CSS to your HTML code. These are:
 
 - External CSS (A file in the same or near directory of your HTML, referenced by using a `link` tag and specifying a path)
 
+`
+
     <link rel="stylesheet" href="mystyle.css">
 
+`
+
 - Internal CSS (A style section written within your HTML file)
+
+`
 
     <style>
         body {
@@ -56,6 +62,8 @@ There are only three was to add CSS to your HTML code. These are:
         margin-left: 40px;
     }
     </style>
+
+`
 
 - Inline CSS (CSS that is written in the tag declaration)
 
