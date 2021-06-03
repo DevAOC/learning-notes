@@ -14,23 +14,29 @@ CSS syntax opens with a selector (h1, section, article, etc) followed by {...} w
 
 A class selector is always written using a period (.) character between the tag and class name. Also, an id selector is written similarly with a hash (#) character between the tag and the id name. For example:
 
-    h1.class-name-example {
-        ...
-    }
+```CSS
 
-    h2#id-name-example {
-        ...
-    }
+h1.class-name-example {
+    color: blue;
+}
+h2#id-name-example {
+    color: red;
+}
+
+```
 
 These are specific to making a change to the content of h1 or h2 tag with their respective class or id. For example:
 
-    <h1 class="class-name-example">
-        ...
-    </h1>
+```HTML
 
-    <h2 id="id-name-example">
-        ...
-    </h2>
+<h1 class="class-name-example">
+    ...
+</h1>
+<h2 id="id-name-example">
+    ...
+</h2>
+
+```
 
 There are many more selectors to choose from. To learn more about selectors [click here.](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 
@@ -42,11 +48,15 @@ There are only three was to add CSS to your HTML code. These are:
 
 - External CSS (A file in the same or near directory of your HTML, referenced by using a `link` tag and specifying a path)
 
-`<link rel="stylesheet" href="mystyle.css">`
+```HTML
 
+<link rel="stylesheet" href="mystyle.css">
+
+```
 
 - Internal CSS (A style section written within your HTML file)
 
+```HTML
 <style>
     body {
         background-color: linen;
@@ -56,6 +66,8 @@ There are only three was to add CSS to your HTML code. These are:
         margin-left: 40px;
     }
 </style>
+
+```
 
 - Inline CSS (CSS that is written in the tag declaration)
 
