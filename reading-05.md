@@ -10,7 +10,7 @@ CSS stands for Cascading Style Sheet. It is what allows you to modify the look o
 
 #### CSS Syntax
 
-CSS syntax opens with a selector (<h1>)
+CSS syntax opens with a selector (&gt;h1&lt;)
 
 ## Reading & Expirement
 
