@@ -47,7 +47,8 @@ There are only three was to add CSS to your HTML code. These are:
 
 - Internal CSS (A style section written within your HTML file)
 
-&lt;style&gt;
+`
+<style>
     body {
         background-color: linen;
     }
@@ -55,7 +56,7 @@ There are only three was to add CSS to your HTML code. These are:
         color: maroon;
         margin-left: 40px;
     }
-&lt;/style&gt;
+</style>
 
 - Inline CSS (CSS that is written in the tag declaration)
 
