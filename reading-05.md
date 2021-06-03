@@ -10,7 +10,30 @@ CSS stands for Cascading Style Sheet. It is what allows you to modify the look o
 
 #### CSS Syntax
 
-CSS syntax opens with a selector (&gt;h1&lt;)
+CSS syntax opens with a selector (h1, section, article, etc) followed by {...} which encases arguments. The arguments encased within the {} are what modify the look and feel of the page. There are many arguments ranging from color to animations!
+
+A class is always written using a period (.) character between the selector and class name. For example:
+
+'
+    h1.class-name-example {
+        ...
+    }
+
+    h2#id-name-example {
+        ...
+    }
+'
+These are specific to making a change to the content of h1 or h2 tag with their respective class or id. For example:
+
+'
+    &lt;h1 class="class-name-example"&gt;
+        ...
+    &lt;/h1&gt;
+
+    &lt;h2 id="id-name-example"&gt;
+        ...
+    &lt;/h2&gt;
+'
 
 ## Reading & Expirement
 
