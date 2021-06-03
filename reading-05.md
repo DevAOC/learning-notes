@@ -58,6 +58,8 @@ There are only three was to add CSS to your HTML code. These are:
     }
 </style>
 
+`
+
 - Inline CSS (CSS that is written in the tag declaration)
 
 The most optimal way to include CSS on your webpages is to use an external file. Although internal CSS may be the same as your external file, it makes the HTML sloppy or hard to read. It is generally viewed as bad practice. Inline CSS should never be used on a finished product. It is generally used to track or quickly view what a certain line of CSS would do to your page.
