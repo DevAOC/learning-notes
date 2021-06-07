@@ -26,6 +26,7 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 - [Reading: 03 - Revisions and the CLoud](reading-03.md)
 - [Reading: 04 - Structure Web Pages with HTML](reading-04.md)
 - [Reading: 05 - Design Web Pages with CSS](reading-05.md)
+- [Reading: 06 - Dynamic Web Pages with Javascript](reading-06.md)
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
