@@ -33,7 +33,7 @@ You may declare variables together:
 
 ```Javascript
 
-var person="Jane Doe", carName="Lamborghini", price="100000"
+var person = "Jane Doe", carName = "Lamborghini", price = "100000"
 
 ```
 
