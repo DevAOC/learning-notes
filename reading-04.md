@@ -24,11 +24,11 @@ HTML is a markup language that uses a series of elements to enclose differnet co
 
 This is a visual representation of an HTML element. [Images below were taken from this site.](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
-![alt text](anatomy-of-html-element.png)
+![alt text](images/anatomy-of-html-element.png)
 
 This visual representation is of an attribute in the element. This can be in the form of a class or an id.
 
-![alt text](attribute-example.png)
+![alt text](images/attribute-example.png)
 
 More information on HTML basics can be found here:
 
