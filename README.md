@@ -21,14 +21,20 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Readings-&-Notes">Readings & Notes</a>
 
-- [Reading: 01 - Learning Markdown](reading-01.md)
-- [Reading: 02 - The Coder's Computer](reading-02.md)
-- [Reading: 03 - Revisions and the CLoud](reading-03.md)
-- [Reading: 04 - Structure Web Pages with HTML](reading-04.md)
-- [Reading: 05 - Design Web Pages with CSS](reading-05.md)
-- [Reading: 06 - Dynamic Web Pages with Javascript](reading-06.md)
-- [Reading: 07 - Programming with Javascript](reading-07.md)
-- [Reading: 08 - Operators and Loops](reading-08.md)
+#### Code 102
+
+- [Reading: 01 - Learning Markdown](code102/reading-01.md)
+- [Reading: 02 - The Coder's Computer](code102/reading-02.md)
+- [Reading: 03 - Revisions and the CLoud](code102/reading-03.md)
+- [Reading: 04 - Structure Web Pages with HTML](code102/reading-04.md)
+- [Reading: 05 - Design Web Pages with CSS](code102/reading-05.md)
+- [Reading: 06 - Dynamic Web Pages with Javascript](code102/reading-06.md)
+- [Reading: 07 - Programming with Javascript](code102/reading-07.md)
+- [Reading: 08 - Operators and Loops](code102/reading-08.md)
+
+#### Code 201
+
+- [Class: 01](code201/class-01.md)
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
