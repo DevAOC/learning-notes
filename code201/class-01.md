@@ -1,6 +1,6 @@
 # Class 01 Notes
 
-## HTML &amp CSS
+## HTML & CSS
 
 ### Chapter 1: Structure
 
@@ -58,11 +58,11 @@ A comment is used in HTML, and coding in general, to help understand the code th
 
 
 
-#### Grouping text &amp elements in a block
+#### Grouping text & elements in a block
 
 
 
-#### Grouping text &amp elements inline
+#### Grouping text & elements inline
 
 
 
@@ -86,7 +86,7 @@ aaa
 
 
 
-## Javascript &amp JQuery
+## Javascript & JQuery
 
-## Chapter 1
+### Chapter 1
 

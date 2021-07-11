@@ -15,13 +15,15 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 ### Table of Contents
 
 - <a href="#Readings-&-Notes">Readings & Notes</a>
++ <a href="#Code-102-Reading-Notes">Code 102 Reading Notes</a>
++ <a href="#Code-201-Reading-Notes">Code 201 Reading Notes</a>
 - <a href="#Biography">Biography</a>
 - <a href="#Contact-Information">Contact Information</a>
 - <a href="#GitHub-Portfolio-Page">GitHub Portfolio Page</a>
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Readings-&-Notes">Readings & Notes</a>
 
-#### Code 102
+#### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Code-102-Reading-Notes">Code 102 Reading Notes</a>
 
 - [Reading: 01 - Learning Markdown](code102/reading-01.md)
 - [Reading: 02 - The Coder's Computer](code102/reading-02.md)
@@ -32,7 +34,7 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 - [Reading: 07 - Programming with Javascript](code102/reading-07.md)
 - [Reading: 08 - Operators and Loops](code102/reading-08.md)
 
-#### Code 201
+#### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Code-201-Reading-Notes">Code 201 Reading Notes</a>
 
 - [Class: 01](code201/class-01.md)
 
