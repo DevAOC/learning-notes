@@ -15,8 +15,8 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 ### Table of Contents
 
 - <a href="#Readings-&-Notes">Readings & Notes</a>
-+ <a href="#Code-102-Reading-Notes">Code 102 Reading Notes</a>
-+ <a href="#Code-201-Reading-Notes">Code 201 Reading Notes</a>
+  - <a href="#Code-102-Reading-Notes">Code 102 Reading Notes</a>
+  - <a href="#Code-201-Reading-Notes">Code 201 Reading Notes</a>
 - <a href="#Biography">Biography</a>
 - <a href="#Contact-Information">Contact Information</a>
 - <a href="#GitHub-Portfolio-Page">GitHub Portfolio Page</a>
