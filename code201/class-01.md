@@ -54,41 +54,19 @@ A comment is used in HTML, and coding in general, to help understand the code th
 
 #### ID and class attributes
 
-
+ID attributes are used to modify or identify on tag specifically that you'd like to be different than other elements on your HTML page. Classes are used to modify a group of elements or more across your HTML page. Both are used by identifying the attribute type and then using its name in quotations.
 
 #### Block and inline elements
 
+Block elements are elements such as a paragraph, ordered or unorder list, and div tags. They all return a new line after the closing tag. Inline elements are elements such as the span tag which can be placed within a sentence.
+
+### Chapter 17: HTML5 Layout
+
+In the older versions of HTML, there were less elements to use and you often had to use an ID or class to identify the purpose of a certain section. Nowadays they have added elements such as the article or nav tag in order to simplify organization.
 
 
-#### Grouping text & elements in a block
+### Chapter 18: Process & Design
 
+The most important thing to look at when beginning to develop a website is the target audience. When doing so, you must tailor your UI and the information on the site to that specific group of people. It is helpful to ask questions to the person who hired you. You can then build your site under those requirements.
 
-
-#### Grouping text & elements inline
-
-
-
-#### IFrames
-
-aaa
-
-#### Meta
-
-
-
-#### Escape Characters
-
-
-
-### Chapter 17
-
-
-
-### Chapter 18
-
-
-
-## Javascript & JQuery
-
-### Chapter 1
-
+How you structure your site will determine how clients, and visitors of this site, view the information presented. Great ways to look at your structure is to make a wireframe or site map. These are good visual tools in which you can design your webpage and have a good base on which to build upon.
