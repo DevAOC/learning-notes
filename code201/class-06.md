@@ -1,6 +1,6 @@
 [Home Page](https://devaoc.github.io/reading-notes/)
 
-# Class 02 Notes
+# Class 06 Notes
 
 ## Reading: Understanding the Problem Domain
 
