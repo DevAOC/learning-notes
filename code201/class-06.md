@@ -34,3 +34,12 @@ let roomsFree = hotel.checkAvailability();
 
 ### Chapter 5: Document Object Model
 
+You may stash what you get from a DOM query to make it easier to repeatedly use that variable. For example:
+
+``` Javascript
+
+let itemOne = getElementById('one');
+
+```
+
+This stores a reference to the node within the DOM.
