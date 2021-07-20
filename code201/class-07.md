@@ -58,3 +58,15 @@ This code is taken from the book.
 
 ### Chapter 3: Functions, Methods, and Objects
 
+Immediately invoked function expressions (IIFE) are functions that self call. Example:
+
+``` Javascript
+
+const area = (function() {
+  let width = 3;
+  let height = 2;
+}())
+
+```
+
+These functions don't need to be called as they will automatically run.
