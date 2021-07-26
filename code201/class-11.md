@@ -16,6 +16,8 @@ background-image: url("images/pattern.gif");
 
 ```
 
+This code can be found in the HTML & CSS book.
+
 ### Chapter 19: Practical Information
 
 #### SEO
