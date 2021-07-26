@@ -30,4 +30,4 @@ This is the idea of optimizing the webpages you make to increase the possibility
 - Text
 - Link text
 - Image alt text
-- Page discriptions
+- Page descriptions
