@@ -17,6 +17,7 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 - <a href="#Readings-&-Notes">Readings & Notes</a>
   - <a href="#Code-102-Reading-Notes">Code 102 Reading Notes</a>
   - <a href="#Code-201-Reading-Notes">Code 201 Reading Notes</a>
+  - <a href="#Code-301-Reading-Notes">Code 301 Reading Notes</a>
 - <a href="#Biography">Biography</a>
 - <a href="#Contact-Information">Contact Information</a>
 - <a href="#GitHub-Portfolio-Page">GitHub Portfolio Page</a>
@@ -51,10 +52,14 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 - [Class: 13](code201/class-13.md)
 - [Class: 14](code201/class-14.md)
 
+#### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Code-301-Reading-Notes">Code 301 Reading Notes</a>
+
+- [Class: 01](code301/class-01.md)
+
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
-Personally, I have had to overcome the struggles of the coronavirus when I lost my job in my regions last lock-down. I was a Cordon Bleu graduate and had been working at [Les Fougeres](https://www.fougeres.com/) in Chelsea, Québec for 2 years. I was fortunate to work with one of the best chefs in Canada and to be awarded 61st in **Canada's 100 Best Restaurants 2020**! 
-  
+Personally, I have had to overcome the struggles of the coronavirus when I lost my job in my regions last lock-down. I was a Cordon Bleu graduate and had been working at [Les Fougeres](https://www.fougeres.com/) in Chelsea, Québec for 2 years. I was fortunate to work with one of the best chefs in Canada and to be awarded 61st in **Canada's 100 Best Restaurants 2020**!
+
 <img src="images/Cordon-Bleu-Grad.jpeg" alt="drawing" width="300"/> <img src="images/CB100_logo-retina.jpeg" alt="drawing" align="top" width="500"/>
 
 I am lucky to be now attending Code Fellows and working towards a career as a Front End Developer!
