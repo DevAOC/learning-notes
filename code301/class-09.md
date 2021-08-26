@@ -4,7 +4,19 @@
 
 ## Functional Programming Concepts
 
-I AM UNABLE TO VIEW THE READING AS IT IS ASKING ME TO UPGRADE AND PAY $5/MONTH.
+Functional programming is a style of building the structure and elements of a program.
+
+A pure function is a function that:
+
+- Returns the same results if given the same arguements
+
+- It doesn't cause any observable side effects.
+
+The benefits of a pure function are that you can expect to see a specific outcome when having an input in a pure function.
+
+Immutability means that the state does not change over time. Instead a new object is created with a new value.
+
+Referential transperancy is the use of a pure function with immutable data.
 
 ## Node JS Tutorial for Beginners #6 - Modules and require()
 
