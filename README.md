@@ -63,6 +63,7 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 - [Class: 07](code301/class-07.md)
 - [Class: 08](code301/class-08.md)
 - [Class: 09](code301/class-09.md)
+- [Class: 10](code301/class-10.md)
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
