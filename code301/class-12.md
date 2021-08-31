@@ -2,32 +2,42 @@
 
 # Class 12 Notes
 
-## Understanding the JavaScript Call Stack
+## Status Codes Based On REST Methods
 
-A call is a function invocation.
+Status Codes:
 
-A call stack is a data structure that uses the Last In First Out principle.
+100-199 are informational codes that tell the client about the request that has been recieved.
 
-LIFO means Last In First Out.
+200-299 are success codes.
 
-LIFO image:
+300-399 are a collection of redirection codes.
 
-![LIFO](../images/LIFO-img.png)
+400-499 are client error codes.
 
-A stack overflow happens when there is a recursive function that does not have an exit.
+500-599 are server error codes.
 
-## JavaScript error messages
+Status code 202 means that the request they made was valid and that the client should recieve a URL response.
 
-A reference error is similar and almost analogous to the error type you get when you have not yet declared a variable.
+Status code 308 means that the request was sent to a new URL and in other words redirected.
 
-A syntax error is when you have a mistake in syntax and it is not fixed before compiling.
+The code that would be returned when no content is returned to the client is status code 204.
 
-A range error is what happens when you try to use or give a length to an object that doesnt have a length or it is an invalid length.
+The forbidden staus code is the no permissions code 403.
 
-A type error is the kind of error you get when trying to use or access two incompatible variable types.
+## Build A REST API With Node.js, Express, & MongoDB - Quick
 
-A breakpoint is when you put a debugger in your code and it stops the code at that point.
+You need to put the server string in your .env so that you can run the mongoose connection.
 
-The word debugger is a breakpoint that opens the debugger in the developer tools.
+Middleware is software that is usually an aid between your client and server. For instance a third party API is considered middleware.
+
+app.use(express.json()) recognizes that the incoming information is in JSON form.
+
+/:id means that whatever is put there is a parameter.
+
+Patch only updates the specific information linked to the parameter passed while PUT will put a new instance in the DB.
+
+The 500 status code means that there was an error within the server.
+
+Code 200 means that the request was successful and returned a response; 201 means that a resource was created.
 
 ## Things I want to know more about
