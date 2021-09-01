@@ -2,32 +2,28 @@
 
 # Class 13 Notes
 
-## Understanding the JavaScript Call Stack
+## That Time When Women Stopped Coding
 
-A call is a function invocation.
+When the decline of women in computer science started, personnal computers had just started hitting the market and were geared towards boys and men.
 
-A call stack is a data structure that uses the Last In First Out principle.
+Males had gotten more experience with computers since parents were more likely to buy computers for boys than girls even when girls would show lots of interest in computers.
 
-LIFO means Last In First Out.
+## Employee breakdown of key technology companies
 
-LIFO image:
+The three take-aways are:
 
-![LIFO](../images/LIFO-img.png)
+- There are more men than women in most tech companies.
 
-A stack overflow happens when there is a recursive function that does not have an exit.
+- There are a lot more white people than other ethnicities in the tech industry.
 
-## JavaScript error messages
+- Despite being one of the smallest populations in the US asian people have a large presence in the tech industry.
 
-A reference error is similar and almost analogous to the error type you get when you have not yet declared a variable.
+## Why diversity matters to your tech company
 
-A syntax error is when you have a mistake in syntax and it is not fixed before compiling.
+Diversity efforts are most successful when the efforts are driven by the company leaders.
 
-A range error is what happens when you try to use or give a length to an object that doesnt have a length or it is an invalid length.
+Diverse teams have more diverse approaches to problems.
 
-A type error is the kind of error you get when trying to use or access two incompatible variable types.
-
-A breakpoint is when you put a debugger in your code and it stops the code at that point.
-
-The word debugger is a breakpoint that opens the debugger in the developer tools.
+The reason why diverse teams can serve a more diverse user base is that they have the cultural background to know what one group or more groups of people are looking for.
 
 ## Things I want to know more about
