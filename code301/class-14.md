@@ -26,10 +26,18 @@ OpenID is a way to use one sign in for all sites.
 
 ## Authorization and Authentication flows
 
-The difference between authorization and authentication is that authentication is to check that the user is a real one and authorization is when the user has access to the site.
+The difference between authorization and authentication is that authorization gives the user access by requesting a third source to verify the user's identity and authentication is a way for users to log in without the third-party source.
 
-Authorization code flow is the flow of the authorization access token.
+Authorization Code Flow is the steps in which authorization progresses.
 
-The PKCE is similar to the authorization code flow but it also uses the secret code.
+Authorization Code Flow with Proof Key for Code Exchange (PKCE) is a way of authorizing access using code verifiers and challenges.
+
+Implicit Flow with Form Post is the use of POST instead of URL fragments for connection.
+
+Client Credentials Flow is authorization using user ID and a unique secret token.
+
+Device Authorization Flow is authorization using a device that recieves an authorization code. An authorized device makes a request for logging that the browser marks as authorized and returns an access token.
+
+Resource Owner Password Flow is when users log in with their log in information, and that info is then stored in the backend.
 
 ## Things I want to know more about
