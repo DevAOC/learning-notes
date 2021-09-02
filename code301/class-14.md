@@ -2,32 +2,28 @@
 
 # Class 14 Notes
 
-## Understanding the JavaScript Call Stack
+## What is OAuth
 
-A call is a function invocation.
+OAuth is an authentication protocol that allows the user to sent client information to be authenticated without using the original logon credentials.
 
-A call stack is a data structure that uses the Last In First Out principle.
+A good example of an OAuth use is when trying to log on to a Google or Facebook account when on a third-party website.
 
-LIFO means Last In First Out.
+OAuth works by:
 
-LIFO image:
+- Connecting the user to a third-party site
+- The third-party generates a one-time token and a secret that is unique and available only to the parties involved
+- The site sends the token and secrect to the client software
+- The client software sends the token and secret to the authentication provider (If not already auhtenticated the client may be asked to authenticate)
+- After authentication the client is asked to approve the authentication transaction to the third-party site
+- The user approves the authentication
+- The user is given an approved access token
+- User gives the token to the first site
+- The first site gives the approved token to the third-party as proof of authentication
+- The first site is given access to the third-party
+- The third-party gives the user access to their site
 
-![LIFO](../images/LIFO-img.png)
+OpenID is a way to use one sign in for all sites.
 
-A stack overflow happens when there is a recursive function that does not have an exit.
-
-## JavaScript error messages
-
-A reference error is similar and almost analogous to the error type you get when you have not yet declared a variable.
-
-A syntax error is when you have a mistake in syntax and it is not fixed before compiling.
-
-A range error is what happens when you try to use or give a length to an object that doesnt have a length or it is an invalid length.
-
-A type error is the kind of error you get when trying to use or access two incompatible variable types.
-
-A breakpoint is when you put a debugger in your code and it stops the code at that point.
-
-The word debugger is a breakpoint that opens the debugger in the developer tools.
+## Authorization and Authentication flows
 
 ## Things I want to know more about
