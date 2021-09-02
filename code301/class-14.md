@@ -26,4 +26,10 @@ OpenID is a way to use one sign in for all sites.
 
 ## Authorization and Authentication flows
 
+The difference between authorization and authentication is that authentication is to check that the user is a real one and authorization is when the user has access to the site.
+
+Authorization code flow is the flow of the authorization access token.
+
+The PKCE is similar to the authorization code flow but it also uses the secret code.
+
 ## Things I want to know more about
