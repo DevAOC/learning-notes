@@ -18,6 +18,7 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
   - <a href="#Code-102-Reading-Notes">Code 102 Reading Notes</a>
   - <a href="#Code-201-Reading-Notes">Code 201 Reading Notes</a>
   - <a href="#Code-301-Reading-Notes">Code 301 Reading Notes</a>
+  - <a href="#Code-401-Reading-Notes">Code 401 Reading Notes</a>
 - <a href="#Biography">Biography</a>
 - <a href="#Contact-Information">Contact Information</a>
 - <a href="#GitHub-Portfolio-Page">GitHub Portfolio Page</a>
@@ -68,7 +69,14 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 - [Class: 12](code301/class-12.md)
 - [Class: 13](code301/class-13.md)
 - [Class: 14](code301/class-14.md)
-- [Class: 15](code301/class-15.md)
+
+#### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Code-401-Reading-Notes">Code 401 Reading Notes</a>
+
+- [Prework](code401/prework.md)
+- [Class: 01](code401/class-01.md)
+- [Class: 02](code401/class-02.md)
+- [Class: 03](code401/class-03.md)
+- [Class: 04](code401/class-04.md)
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
