@@ -4,7 +4,7 @@
 
 ## Review, Research, and Discussion
 
-1. Proper order for tokens is:
+1. Proper order for tokens is: register your application to get a client_id and client_secret, ask the client if they want to sign in via a third party, make a request to a third-party API endpoint, receive access token, receive authorization code, make a request to the access token endpoint, and redirect to a third party authentication endpoint.
 2. With an auth code we are able to make sure that the person that is attempting to access our database, is allowed to do so.
 3. With an access token you are able to verify if there was any tampering while a request was being sent to the server/databse.
 4. The benefits of usiong OAuth vs your own authentication is that OAuth is more secure beccause they have better encoding and encryption.
