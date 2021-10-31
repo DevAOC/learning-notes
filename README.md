@@ -83,6 +83,15 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 - [Class: 08](code401/class-08.md)
 - [Class: 09](code401/class-09.md)
 - [Stacks and Queues](code401/stacks-and-queues.md)
+- [Class: 11](code401/class-11.md)
+- [Class: 12](code401/class-12.md)
+- [Class: 13](code401/class-13.md)
+- [Class: 14](code401/class-14.md)
+- [Trees](code401/trees.md)
+- [Class: 16](code401/class-16.md)
+- [Class: 17](code401/class-17.md)
+- [Class: 18](code401/class-18.md)
+- [Class: 19](code401/class-19.md)
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
