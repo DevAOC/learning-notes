@@ -1,17 +1,18 @@
 [Home Page](https://devaoc.github.io/reading-notes/)
 
-# Class 12 Notes
+# Class 17 Notes
 
 ## Review, Research, and Discussion
 
-1. The benefits of transforming data into packets is that it takes less space when sending that information through the network. (Less bandwidth use)
-2. It is considered a connectionless protocol because it allows information to be sent before there is an arguement from the recieving party.
-3. A server can hace multiple socket connections as long as the client is using multiple sockets on their end.
-4. This is the same when talking about an app connection to two other socket apps/servers.
-5. Yes you can have both a socket connection and a socket server in one app.
+1. The cloud is a term for the network of servers and databases that hold peoples' information.
+2. A container is a form of virtualization of small services to large applications. A container contains config files, executables, binary code, and libraries.
+3. Auto-scaling provides coders with an easy way to scale applications and the amount of information coming through it.
+4. Bandwidth is the maximum amount of information that can be sent over a web connection. It is not the speed of the connection.
+5. The way that costs are calculated is by calculating hardware costs, upkeep costs, and labor costs.
 
 ## Terms
 
-- Listener: A function or module that is waiting for an event to happen.
-- Event Handler: A function that will handle the information that the listener received.
-- Event Driven Programming: This sort of programming means that everything that happens must be triggered by an event/ something that happens before it.
+- AWS: This stands for Amazon Web Services and they are a cloud service provider.
+- Cloud Services: Cloud services are hosts for certain peices of software and sometimes are APIs and servers themselves.
+- Cloud Architecture: These are the components that build/make up a cloud service.
+- Server Instances: A server instance is a term to refer to one use of a server or even the same server having multiple runtimes.
