@@ -1,17 +1,17 @@
 [Home Page](https://devaoc.github.io/reading-notes/)
 
-# Class 12 Notes
+# Class 19 Notes
 
 ## Review, Research, and Discussion
 
-1. The benefits of transforming data into packets is that it takes less space when sending that information through the network. (Less bandwidth use)
-2. It is considered a connectionless protocol because it allows information to be sent before there is an arguement from the recieving party.
-3. A server can hace multiple socket connections as long as the client is using multiple sockets on their end.
-4. This is the same when talking about an app connection to two other socket apps/servers.
-5. Yes you can have both a socket connection and a socket server in one app.
+1. The similarities between AWS Gateway + Lambda functions and an Express.js server is that they both use REST and have similar routing.
+2. They have multiple database offerings some are NoSQL and some are SQL.
+3. A FIFO queue will make sure that the data is sent in one after the other and has to be handled one before the other. A standard queue doesnt require the first queue object to be read first.
+4. You can use SQS to make sure that the message was delivered and you can also use promises.
 
 ## Terms
 
-- Listener: A function or module that is waiting for an event to happen.
-- Event Handler: A function that will handle the information that the listener received.
-- Event Driven Programming: This sort of programming means that everything that happens must be triggered by an event/ something that happens before it.
+- Serverless API: They are not truly serverless because they have code behind the scenes but they dont require manual maintenance and are offered by service providers.
+- Triggers: Triggers are actions that activate another section of code. For instance Lambda functions require triggers to start.
+- Dynamo vs Mongo: Dynamo is a NoSQL just like Mongo but Dynamo is offered by AWS.
+- Dynamoose vs Mongoose: Dynamoose is the package that allows you to use DynamoDB and Mongoose is the package that allows you to use MongoDB.
