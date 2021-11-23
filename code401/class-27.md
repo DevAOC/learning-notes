@@ -4,7 +4,8 @@
 
 ## Review, Research, and Discussion
 
-React differs from vanilla JS/HTML/CSS because it is almost like a melding of all three plus ES6. It allows users to write HTML within JS and even inline style. You may also import styles from a seperate file. 2. Functional components and class components differ in structure. In a functional component you dont need to use a constructor and it uses hooks instead of using the setState method.
+1. React differs from vanilla JS/HTML/CSS because it is almost like a melding of all three plus ES6. It allows users to write HTML within JS and even inline style. You may also import styles from a seperate file.
+2. Functional components and class components differ in structure. In a functional component you dont need to use a constructor and it uses hooks instead of using the setState method.
 
 ## Terms
 
