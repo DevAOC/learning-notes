@@ -4,14 +4,9 @@
 
 ## Review, Research, and Discussion
 
-1. The similarities between AWS Gateway + Lambda functions and an Express.js server is that they both use REST and have similar routing.
-2. They have multiple database offerings some are NoSQL and some are SQL.
-3. A FIFO queue will make sure that the data is sent in one after the other and has to be handled one before the other. A standard queue doesnt require the first queue object to be read first.
-4. You can use SQS to make sure that the message was delivered and you can also use promises.
+React differs from vanilla JS/HTML/CSS because it is almost like a melding of all three plus ES6. It allows users to write HTML within JS and even inline style. You may also import styles from a seperate file. 2. Functional components and class components differ in structure. In a functional component you dont need to use a constructor and it uses hooks instead of using the setState method.
 
 ## Terms
 
-- Serverless API: They are not truly serverless because they have code behind the scenes but they dont require manual maintenance and are offered by service providers.
-- Triggers: Triggers are actions that activate another section of code. For instance Lambda functions require triggers to start.
-- Dynamo vs Mongo: Dynamo is a NoSQL just like Mongo but Dynamo is offered by AWS.
-- Dynamoose vs Mongoose: Dynamoose is the package that allows you to use DynamoDB and Mongoose is the package that allows you to use MongoDB.
+- Functional Components: These are React components that are defined as functions rather than a class.
+- Children/Child Components: Children are the components that are helping/lower level than a component that uses it.

@@ -94,6 +94,9 @@ The growth mindset, as defined by me, is the ability to perservere in the face o
 - [Class: 19](code401/class-19.md)
 - [Class: 26](code401/class-26.md)
 - [Class: 27](code401/class-27.md)
+- [Hash Tables](code401/hash-tables.md)
+- [Class: 28](code401/class-28.md)
+- [Class: 29](code401/class-29.md)
 
 ### <a style="color: #159957; font-weight: normal; text-decoration: none;" id="Biography">Biography</a>
 
