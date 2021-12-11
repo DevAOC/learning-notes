@@ -1,6 +1,6 @@
 [Home Page](https://devaoc.github.io/reading-notes/)
 
-# Class 37 Notes
+# Class 38 Notes
 
 ## Review, Research, and Discussion
 
